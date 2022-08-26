@@ -20,10 +20,10 @@
     "keywords": [],
     "dependencies": {
         "keycloakify": "^5.9.0",
-        "react": "18.1.0",
-        "react-dom": "18.1.0",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
         "@emotion/react": "^11.9.0",
-        "tss-react": "^3.7.0"
+        "tss-react": "^4.0.0"
     },
     "devDependencies": {
         "@types/node": "^15.3.1",
