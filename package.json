@@ -1,11 +1,11 @@
 {
-    "name": "keycloakify-ccso",
-    "homepage": "https://psuccso.org",
-    "version": "0.5.0",
+    "name": "keycloakify-demo-app",
+    "homepage": "https://demo-app.keycloakify.dev",
+    "version": "0.4.4",
     "description": "A demo project for keycloakify",
     "repository": {
         "type": "git",
-        "url": "git://github.com/CyberLions/KeycloakTheme.git"
+        "url": "git://github.com/garronej/keycloakify-demo-app.git"
     },
     "scripts": {
         "build": "react-scripts build",
@@ -19,11 +19,11 @@
     "license": "MIT",
     "keywords": [],
     "dependencies": {
-        "keycloakify": "^5.9.0",
-        "react": "18.2.0",
-        "react-dom": "18.2.0",
+        "keycloakify": "^5.4.7",
+        "react": "18.1.0",
+        "react-dom": "18.1.0",
         "@emotion/react": "^11.9.0",
-        "tss-react": "^4.0.0"
+        "tss-react": "^3.7.0"
     },
     "devDependencies": {
         "@types/node": "^15.3.1",
