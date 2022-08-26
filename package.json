@@ -1,11 +1,11 @@
 {
-    "name": "keycloakify-demo-app",
-    "homepage": "https://demo-app.keycloakify.dev",
+    "name": "keycloakify-ccso",
+    "homepage": "https://id.psuccso.org/",
     "version": "0.4.4",
-    "description": "A demo project for keycloakify",
+    "description": "CCSO Keycloak theme",
     "repository": {
         "type": "git",
-        "url": "git://github.com/garronej/keycloakify-demo-app.git"
+        "url": "git://github.com/CyberLions/KeycloakTheme.git"
     },
     "scripts": {
         "build": "react-scripts build",
